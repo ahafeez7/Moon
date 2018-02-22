@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Biophyscial signal processing"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "important to measure human body functions"
 project: true
 tag:
 - jekyll 
