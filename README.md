@@ -1,6 +1,6 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# My collaborative project [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
+## `Sorry guys but there will be no update until I start collaboration.`
     
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
