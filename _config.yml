@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Biomedical project
+bio:                'Biophysical signals analysis'
+description:        "Such signals are important in measuring different body functions"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
